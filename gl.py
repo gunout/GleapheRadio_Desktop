@@ -25,7 +25,7 @@ class GleapheRadioApp(Gtk.Window):
 
         # Liste des stations Gleaphe (URL simplifiées)
         self.stations = {
-            "Gleaphe": "https://gleaphe.duckdns.org/stream",
+            "Gleaphe": "https://gradio-gleaphe.duckdns.org/radio/stream",
             
         }
 
